@@ -1,2 +1,4 @@
-﻿.vs/
+﻿.vs
 MyLan/bin/
+*.suo
+.vs/MyLan/v15/Server/
