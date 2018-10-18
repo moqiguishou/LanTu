@@ -1,0 +1,9 @@
+E:\工程\lantu\MyLan\MyLan\bin\Debug\MyLan.exe.config
+E:\工程\lantu\MyLan\MyLan\bin\Debug\MyLan.exe
+E:\工程\lantu\MyLan\MyLan\bin\Debug\MyLan.pdb
+E:\工程\lantu\MyLan\MyLan\obj\Debug\MyLan.csprojAssemblyReference.cache
+E:\工程\lantu\MyLan\MyLan\obj\Debug\MyLan.Properties.Resources.resources
+E:\工程\lantu\MyLan\MyLan\obj\Debug\MyLan.csproj.GenerateResource.cache
+E:\工程\lantu\MyLan\MyLan\obj\Debug\MyLan.csproj.CoreCompileInputs.cache
+E:\工程\lantu\MyLan\MyLan\obj\Debug\MyLan.exe
+E:\工程\lantu\MyLan\MyLan\obj\Debug\MyLan.pdb
